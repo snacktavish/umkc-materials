@@ -1,27 +1,27 @@
-year,country,gold,silver,bronze
-2010,Australia,0,1,2
-2010,Austria,6,9,11
-2010,Belarus,1,1,1
-2010,Canada,8,15,67
-2010,China,7,3,9
-2010,Croatia,1,2,0
-2010,Czech Republic,7,0,2
-2010,Estonia,0,1,0
-2010,Finland,46,1,0
-2010,France,6,6,2
-2010,Germany,15,24,15
-2010,Great Britain,0,0,1
-2010,Italy,3,1,1
-2010,Japan,2,5,0
-2010,Kazakhstan,0,1,0
-2010,Latvia,0,3,0
-2010,Netherlands,6,1,4
-2010,Norway,9,14,16
-2010,Poland,4,3,1
-2010,Russia,14,5,6
-2010,Slovakia,1,1,1
-2010,Slovenia,1,2,0
-2010,South Korea,2,10,6
-2010,Sweden,4,3,11
-2010,Switzerland,6,0,6
-2010,United States,22,63,12
+Rank,Country,Gold,Silver,Bronze,Total
+1,Canada (CAN)*,14,7,5,26
+2,Germany (GER),10,13,7,30
+3,United States (USA),9,15,13,37
+4,Norway (NOR),9,8,6,23
+5,South Korea (KOR),6,6,2,14
+6,Switzerland (SUI),6,0,3,9
+7,China (CHN),5,2,4,11
+7,Sweden (SWE),5,2,4,11
+9,Austria (AUT),4,6,6,16
+10,Netherlands (NED),4,1,3,8
+11,Russia (RUS),3,5,7,15
+12,France (FRA),2,3,6,11
+13,Australia (AUS),2,1,0,3
+14,Czech Republic (CZE),2,0,4,6
+15,Poland (POL),1,3,2,6
+16,Italy (ITA),1,1,3,5
+17,Belarus (BLR),1,1,1,3
+17,Slovakia (SVK),1,1,1,3
+19,Great Britain (GBR),1,0,0,1
+20,Japan (JPN),0,3,2,5
+21,Croatia (CRO),0,2,1,3
+21,Slovenia (SLO),0,2,1,3
+23,Latvia (LAT),0,2,0,2
+24,Finland (FIN),0,1,4,5
+25,Estonia (EST),0,1,0,1
+25,Kazakhstan (KAZ),0,1,0,1
