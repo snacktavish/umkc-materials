@@ -1,0 +1,18 @@
+#Equations
+#Disposable income
+yd = w*n - t
+#Taxes
+t = theta*w*n
+#Consumption
+c = alpha1*yd + alpha2*h(-1)
+#Wealth
+h = h(-1)  + yd - c
+#Wealth control
+h_c = h_c(-1)+ g - t
+#GDP
+y = c + g
+#Employment
+n = y/w
+#Calibration
+#Initial values
+#Timeline
